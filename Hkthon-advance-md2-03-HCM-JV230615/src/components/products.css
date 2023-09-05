@@ -1,0 +1,16 @@
+.root{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 400px 400px 400px 400px 400px;
+   gap: -10px;
+  
+}
+button{
+    padding: 5px;
+    width: 100px;
+    border-radius: 5px;
+}
+.btn{
+    border: 1px solid;
+    border-radius: 5px;
+}
